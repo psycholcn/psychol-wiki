@@ -8,3 +8,4 @@ nav:
   - '首页': 'index.md'
   - '疾病':
     - '双相情感障碍': 'diseases/bipolar_disorder.md'
+    - '抑郁障碍': 'diseases/depression.md'
