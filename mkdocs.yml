@@ -14,3 +14,5 @@ nav:
     - '抑郁障碍': 'diseases/depression.md'
     - '性别焦虑': 'diseases/trans.md'
     - '性偏好障碍': 'diseases/sexual_preference_disorders.md'
+  - '药物':
+    - '醋酸环丙孕酮': 'drugs/cpa.md'
