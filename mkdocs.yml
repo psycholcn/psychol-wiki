@@ -12,3 +12,4 @@ nav:
   - '疾病':
     - '双相情感障碍': 'diseases/bipolar_disorder.md'
     - '抑郁障碍': 'diseases/depression.md'
+    - '性别焦虑': 'diseases/trans.md'
