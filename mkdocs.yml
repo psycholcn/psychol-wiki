@@ -7,4 +7,4 @@ repo_url: https://github.com/project-psychol/psychol-wiki
 nav:
   - '首页': 'index.md'
   - '疾病':
-    - '双相情感障碍': 'docs/bipolar_disorder.md'
+    - '双相情感障碍': 'diseases/bipolar_disorder.md'
