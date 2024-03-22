@@ -1,2 +1,8 @@
 site_name: PsycholWiki
 theme: material
+plugins:
+  - group
+  - offline
+  - search
+  - social
+  - tags
