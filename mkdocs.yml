@@ -7,6 +7,10 @@ site_author: 'WuMoe LLC'
 site_description: '给病友的参考指南'
 repo_url: 'https://github.com/project-psychol/psychol-wiki'
 
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
 extra_javascript:
   - javascripts/katex.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
