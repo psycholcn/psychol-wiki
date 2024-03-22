@@ -3,8 +3,8 @@ theme:
     name: material
     language: zh
     favicon: 'images/favicon.png'
-site_author: 'WuMoe LLC'
-site_description: '给病友的参考指南'
+site_author: 'project-psychol'
+site_description: '一份非专业性的精神医学指南'
 repo_url: 'https://github.com/project-psychol/psychol-wiki'
 
 markdown_extensions:
