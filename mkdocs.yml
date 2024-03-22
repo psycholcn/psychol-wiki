@@ -7,6 +7,14 @@ site_author: 'WuMoe LLC'
 site_description: '给病友的参考指南'
 repo_url: 'https://github.com/project-psychol/psychol-wiki'
 
+extra_javascript:
+  - javascripts/katex.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
 nav:
   - '首页': 'index.md'
   - '疾病':
