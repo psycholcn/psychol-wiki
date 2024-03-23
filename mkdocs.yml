@@ -9,6 +9,9 @@ site_description: '一份非专业性的精神医学指南'
 repo_url: 'https://github.com/project-psychol/psychol-wiki'
 
 extra:
+    disqus: 'Psychol Wiki'
+  copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">CC BY-SA 4.0</a>'
+  pagetime: 'on'
   analytics:
     provider: google
     property: G-VQFBBPVGW7
