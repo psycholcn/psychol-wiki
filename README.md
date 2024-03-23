@@ -1,6 +1,8 @@
-<!-- markdownlint-disable-next-line -->
+# Psychol Wiki
 
-[![logo](/images/logo.png){:height="100px" width="400px"}](https://psychol.wiki)
+我们意在创建一份非专业性的精神医学指南，欢迎投稿。
+
+我们的联系方式是：<rmolives@wumoe.org>
 
 ## 版权声明
 
