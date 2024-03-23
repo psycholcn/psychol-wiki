@@ -2,6 +2,7 @@ site_name: PsycholWiki
 theme:
     name: material
     language: zh
+    logo: 'images/favicon.png'
     favicon: 'images/favicon.png'
 site_author: 'project-psychol'
 site_description: '一份非专业性的精神医学指南'
