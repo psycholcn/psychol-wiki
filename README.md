@@ -1,10 +1,8 @@
 <!-- markdownlint-disable-next-line -->
 
-[![psychol-wiki][logo-long]][wiki-url]
+[![logo](/images/logo.png)](https://psychol.wiki)
 
 ## 版权声明
-
-[![知识共享许可协议][cc-img]][cc-url]
 
 除特别注明外，项目中除了代码部分均采用 [(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议][cc-url] 进行许可。
 
@@ -13,7 +11,7 @@
 而如果你想要引用这个 GitHub 仓库，可以使用如下的 BibTeX：
 
 ```plain
-@misc{mtfwiki,
+@misc{psycholwiki,
   author = {Project Psychol},
   title = {Psychol Wiki},
   year = {2024},
