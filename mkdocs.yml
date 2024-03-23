@@ -27,6 +27,7 @@ nav:
     - '性别焦虑': 'diseases/trans.md'
     - '性偏好障碍': 'diseases/sexual_preference_disorders.md'
     - '精神分裂症': 'diseases/schizophrenia.md'
+    - '分离性身份识别障碍': 'diseases/did.md'
   - '药物':
     - '抗抑郁药':
         - '文拉法辛': 'drugs/venlafaxine.md'
