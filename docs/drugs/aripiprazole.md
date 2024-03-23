@@ -35,4 +35,4 @@
 ## 参考资料
 
 1. https://www.med66.com/html/ziliao/07/61/021abae3121d08e68ec099d8a2a7531d.htm
-2. 百度百科：阿立哌唑
+2. 百度百科，阿立哌唑
