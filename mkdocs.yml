@@ -39,5 +39,6 @@ nav:
         - '文拉法辛': 'drugs/venlafaxine.md'
     - '抗精神病药':
         - '阿立哌唑': 'drugs/aripiprazole.md'
+        - '利培酮': 'drugs/risperidone.md'
     - '其他':
         - '醋酸环丙孕酮': 'drugs/cpa.md'
