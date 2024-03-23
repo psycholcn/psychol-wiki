@@ -37,5 +37,7 @@ nav:
   - '药物':
     - '抗抑郁药':
         - '文拉法辛': 'drugs/venlafaxine.md'
+    - '抗精神病药':
+        - '阿立哌唑': 'drugs/aripiprazole.md'
     - '其他':
         - '醋酸环丙孕酮': 'drugs/cpa.md'
