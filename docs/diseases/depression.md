@@ -38,11 +38,11 @@
 
 抑郁症的有效心理治疗包括：
 
-1. 行为激活
-2. 认知行为疗法
-3. 人际心理治疗
-4. 解决问题疗法。
-5. 抗抑郁药物
+* 行为激活
+* 认知行为疗法
+* 人际心理治疗
+* 解决问题疗法
+* 抗抑郁药物
 
 卫生保健提供者应该牢记与抗抑郁药物有关的可能副作用、提供干预措施的能力(就专业知识和/或治疗可及性而言)以及个人偏好。
 
@@ -84,4 +84,3 @@
 1. 沈渔邨精神病学，陆林，人民卫生出版社
 2. https://www.who.int/zh/news-room/fact-sheets/detail/depression
 3. https://www.mayoclinic.org/zh-hans/diseases-conditions/depression/symptoms-causes/syc-20356007
-4.
