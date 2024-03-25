@@ -35,6 +35,7 @@ nav:
     - '精神分裂症': 'diseases/schizophrenia.md'
     - '分离性身份识别障碍': 'diseases/did.md'
     - '创伤后应激综合症': 'diseases/ptsd.md'
+    - '分离性遗忘': 'diseases/dissociative_amnesia.md'
   - '药物':
     - '抗抑郁药':
         - '文拉法辛': 'drugs/venlafaxine.md'
