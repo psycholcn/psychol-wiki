@@ -1,6 +1,6 @@
 # 分裂型人格障碍
 
-** 分裂型人格障碍（Schizotypal Personality Disorder, STPD）** 是一种以思维、情感和行为方式上的异常为特征的** 人格障碍** 。
+**分裂型人格障碍（Schizotypal Personality Disorder, STPD）** 是一种以思维、情感和行为方式上的异常为特征的** 人格障碍** 。
 
 ## 成因
 
